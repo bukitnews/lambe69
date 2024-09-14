@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://bukitnews.github.io/lambe69/sitemap.xml
